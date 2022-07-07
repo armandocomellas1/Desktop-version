@@ -17,7 +17,7 @@
 
 **This is an example of how you may give instructions on setting up your project locally.**
 
-This is about a mobile version application, there is two parts so far, header and section in the middle wich l show works and about me.
+This is about a Desktop version application, there is two parts so far, header and section in the middle, added contact form and putted some validation in the form.
 
 ## Authors
 
