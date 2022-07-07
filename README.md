@@ -10,6 +10,7 @@
 - HTML5
 - CSS
 - Flexbox and CSS Grid in order to make a structure in the html and look nice.
+- Media Query (very important)
 
 ## Getting Started
 
