@@ -2,8 +2,7 @@
 
 # Project Name
 
-> Portfolio: mobile version.
-
+- Portfolio: application deploy
 
 ## Built With
 
@@ -18,7 +17,10 @@
 
 **This is an example of how you may give instructions on setting up your project locally.**
 
-This is about a Desktop version application, there is two parts so far, header and section in the middle, added contact form and putted some validation in the form.
+This is about how the desktop and mobile application can be deployed in gh server.
+
+# Project link live version
+https://armandocomellas1.github.io/Desktop-version/
 
 ## Authors
 
