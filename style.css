@@ -289,6 +289,30 @@ body {
   height: 445px;
 }
 
+#metrics {
+  background-image: url(./img/mainsite.PNG);
+  background-size: cover;
+  height: 445px;
+}
+
+#space {
+  background-image: url(./img/main.PNG);
+  background-size: cover;
+  height: 445px;
+}
+
+#math {
+  background-image: url(./img/math.PNG);
+  background-size: 100%;
+  height: 445px;
+}
+
+#todo {
+  background-image: url(./img/todo.PNG);
+  background-size: 100%;
+  height: 445px;
+}
+
 .works .special_flex .first_logo {
   background: linear-gradient(0deg, #f9f9f9, #f9f9f9);
   background-image: url(./img/Placeholder.png);
